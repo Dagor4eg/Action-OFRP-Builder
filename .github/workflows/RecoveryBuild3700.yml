@@ -22,7 +22,7 @@ on:
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/oneplus/3700'
+        default: 'device/realme/RMX3700'
       COMMON_TREE_URL:
         description: 'COMMON_TREE_URL (if no common tree, leave blank)'
         required: false
